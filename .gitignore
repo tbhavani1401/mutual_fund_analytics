@@ -1,0 +1,19 @@
+# Database files (share schema.sql instead)
+*.db
+*.sqlite
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+__pycache__/
+
+# Python cache
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment
+venv/
+.env
